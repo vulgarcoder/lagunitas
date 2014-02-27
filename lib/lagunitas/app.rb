@@ -1,5 +1,5 @@
 require 'cfpropertylist'
-require 'pngdefry'
+#require 'pngdefry'
 
 module Lagunitas
   class App
